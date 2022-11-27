@@ -11,13 +11,21 @@
 
 <h3 align="center">About Me:</h3>
 
+- 🔭 Trying to learn **as much as i can**
+
 - 🌱 I’m currently learning **Python, CSS, HTML**
+
+- 👨🏻‍💻 Exploring **the world of tech**
+
+- 🤝 Always **thinking**
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/3197869629878138682](https://www.blogger.com/blog/posts/3197869629878138682)
 
 - 👾 Recently done a course on **React**
 
 - 📫 How to reach me **hardikkumawat444@gmail.com**
+
+- ⚡ Fun fact **fish can cough!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +36,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
 <h2 align="center">What I'm Learning and Will be Learning:</h2>
 
 <div align="center">
