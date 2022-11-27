@@ -1,8 +1,9 @@
 <h1 align="center">Hi it's me Hardik</h1>
 
 <div align="center">
-![octocat-anime](https://user-images.githubusercontent.com/114590291/204160111-87911d0a-de34-4ec4-8a29-efc45acc94c7.gif)
+<img src="https://user-images.githubusercontent.com/114590291/204160111-87911d0a-de34-4ec4-8a29-efc45acc94c7.gif">
 </div>
+
 
 <div align="center" width="50">
 <img src="https://user-images.githubusercontent.com/114590291/204158038-febb6de3-5f03-4c5a-9657-aff6182fa4d1.gif" width="400">
