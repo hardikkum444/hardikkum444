@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center">Follow me on </h2>
+<h2 align="center">Follow me on:</h2>
 <div align="center">
 
   <div>
