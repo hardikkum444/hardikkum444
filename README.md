@@ -6,8 +6,9 @@
 
 
 <div align="center" width="50">
-<img src="https://user-images.githubusercontent.com/114590291/204158038-febb6de3-5f03-4c5a-9657-aff6182fa4d1.gif" width="400">
+<img src="https://user-images.githubusercontent.com/114590291/204160631-1e1fa530-5d0c-4e70-9014-8ee443cef807.gif" width="400">
 </div>
+
 
 
 <h2 align="center">What I'm Learning and Will be Learning:</h2>
