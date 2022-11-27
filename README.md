@@ -1,8 +1,6 @@
 <h1 align="center"> Hi it's me Hardik <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-
+<img align='right' src='https://user-images.githubusercontent.com/114590291/204161028-999b7985-e734-47bc-85ec-a05a41922e6d.gif' width='200"'>
 
 
 
