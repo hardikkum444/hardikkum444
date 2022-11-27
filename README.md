@@ -3,7 +3,7 @@
 </div>
 
 
-<h3 align="center">Follow me on </h3>
+<h2 align="center">Follow me on </h2>
 
 <div style="margin-top:10px" align="center">
   <div>
@@ -14,9 +14,6 @@
   <div>
     <a  href="https://www.instagram.com/har.di.k.k/" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://www.hackerrank.com/priyanshkhare491" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
     </a>
     <a href="https://www.leetcode.com/example" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
