@@ -12,8 +12,8 @@
     </a>
   </div>
   <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
+    <a  href="https://www.instagram.com/har.di.k.k/" target="_blank">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
     <a href="https://www.hackerrank.com/priyanshkhare491" target="_blank">
       <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
