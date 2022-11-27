@@ -1,5 +1,5 @@
-<h1 align="center">Hi it's me Hardik</h1>
-![octocat-anime](https://user-images.githubusercontent.com/114590291/204159867-b63d60a6-276b-418b-92fb-2436110b2406.gif)
+<h1 align="center">Hi it's me Hardik</h1>![octocat-anime](https://user-images.githubusercontent.com/114590291/204160111-87911d0a-de34-4ec4-8a29-efc45acc94c7.gif)
+
 
 <div align="center" width="50">
 <img src="https://user-images.githubusercontent.com/114590291/204158038-febb6de3-5f03-4c5a-9657-aff6182fa4d1.gif" width="400">
