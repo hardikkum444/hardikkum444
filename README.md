@@ -11,7 +11,7 @@
 
 
 
-<h2 align="center">What I'm Learning and Will be Learning:</h2>
+<h1 align="center">What I'm Learning and Will be Learning:</h1>
 
 <div align="center">
 <table>
