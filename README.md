@@ -4,7 +4,7 @@
 
 
 <h2 align="center">Follow me on </h2>
-
+<div align="center">
 
   <div>
     <a href="https://twitter.com/Hardikkum444" target="_blank">
