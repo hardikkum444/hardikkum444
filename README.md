@@ -1,7 +1,5 @@
 ![octocat-anime](https://user-images.githubusercontent.com/114590291/204159867-b63d60a6-276b-418b-92fb-2436110b2406.gif)
-
-### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
-![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
+<h1 align="center">Hi, I'm Priyansh Khare</h1>
 
 
 <div align="center" width="50">
