@@ -1,9 +1,6 @@
-<img src="[https://i.imgur.com/dTYwdG1.gif](https://user-images.githubusercontent.com/114590291/204157950-d503f15a-8aeb-475a-bbe8-7843650488a9.gif)" alt="Welcome!" width="300"/>
-
-
-
-
-
+<div align="center" width="50">
+  ![messagif (2)](https://user-images.githubusercontent.com/114590291/204158017-82c62049-1897-4d87-abb9-7e8eb57ea8a4.gif)
+ </div>
 
 
 
