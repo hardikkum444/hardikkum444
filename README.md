@@ -1,3 +1,1 @@
-<html>
-<marquee>this is my git hub profile</marquee>
-</html>
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
