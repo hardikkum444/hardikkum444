@@ -15,8 +15,8 @@
     <a  href="https://www.instagram.com/har.di.k.k/" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
     </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
+    <a href="https://www.linkedin.com/in/hardik-kumawat-488a0b252/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
 </div>
