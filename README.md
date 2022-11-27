@@ -5,7 +5,7 @@
 
 <h2 align="center">Follow me on </h2>
 
-<div align="center">
+
   <div>
     <a href="https://twitter.com/Hardikkum444" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
