@@ -3,8 +3,9 @@
 </div>
 
 
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hardikkum444&theme=radical)
-
+</div>
 
 
 
