@@ -5,11 +5,6 @@
 
 
 
-<h1 align="center">Hi it's me Hardik</h1>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/114590291/204160111-87911d0a-de34-4ec4-8a29-efc45acc94c7.gif">
-</div>
 
 
 <div align="center" width="50">
