@@ -12,15 +12,15 @@
 
 - 🔭 Trying to learn **as much as i can**
 
-- 🌱 I’m currently learning **Python, CSS, HTML**
+- 🌱 I’m currently learning **C++, DSA, Java**
 
 - 👨🏻‍💻 Exploring **the world of tech**
 
-- 🤝 Always **thinking**
+- 🤝 Always **thinking, logically**
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/3197869629878138682](https://www.blogger.com/blog/posts/3197869629878138682)
 
-- 👾 Recently done a course on **React**
+- 👾 Recently done a course on **c++**
 
 - 📫 How to reach me **hardikkumawat444@gmail.com**
 
