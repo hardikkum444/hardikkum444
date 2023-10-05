@@ -108,7 +108,7 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=hardikkum444&show_icons=true&theme=radical&hide_border=true&locale=en)](https://github.com/hardikkum444)
 
-[![GitHub Streak](https://streak-stats.demolab.com/hardikkum444=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hardikkum444)](https://git.io/streak-stats)
   
 </div>
 
