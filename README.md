@@ -107,7 +107,7 @@
 <h2 align="center" style="margin: 100px 30px;">My Github Statistical Data :</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=hardikkum444&show_icons=true&theme=radical&hide_border=true&locale=en)](https://github.com/hardikkum444)
-[![GitHub Streak](https://streak-stats.demolab.com?user=hardikkum444&theme=radical&border_radius=5.3)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hardikkum444&theme=radical&border_radius=5.3)](https://github.com/hardikkum444)
   
 </div>
 
