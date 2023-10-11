@@ -22,7 +22,7 @@
 
 - 👾 Recently done a course on **c++**
 
-- 📫 How to reach me **hardikkumawat444@gmail.com**
+- 📫 reach me at **hardikkumawat444@gmail.com**
 
 - ⚡ Fun fact **fish can cough!**
 
