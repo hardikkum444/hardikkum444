@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **C++, DSA, Java**
 
-- 👨🏻‍💻 Exploring **the world of tech**
+- 👨🏻‍💻 Exploring **my capabilities**
 
 - 🤝 Always **thinking, logically**
 
