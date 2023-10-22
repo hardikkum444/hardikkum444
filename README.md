@@ -10,7 +10,7 @@
 
 <h3 align="center">About Me:</h3>
 
-- 🔭 Trying to learn **as much as i can**
+- 🔭 Trying to learn **something new everyday**
 
 - 🌱 I’m currently learning **C++, DSA, Java**
 
