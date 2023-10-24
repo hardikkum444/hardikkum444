@@ -109,7 +109,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=hardikkum444&show_icons=true&theme=radical&hide_border=true&locale=en)](https://github.com/hardikkum444)
 [![GitHub Streak](https://streak-stats.demolab.com?user=hardikkum444&theme=radical&border_radius=5.3)](https://github.com/hardikkum444)
 
-![](https://komarev.com/ghpvc/?username=hardikkum444)
+![](https://komarev.com/ghpvc/?username=your-github-hardikkum444&style=for-the-badge)
   
 </div>
 
