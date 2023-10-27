@@ -110,6 +110,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=hardikkum444&theme=radical&border_radius=5.3)](https://github.com/hardikkum444)
 
 ![](https://komarev.com/ghpvc/?username=your-github-hardikkum444&style=for-the-badge&color=ff69b4)
+
+
+![](https://raw.githubusercontent.com/hardikkum444/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/hardikkum444/github-stats/master/generated/overview.svg#gh-light-mode-only)
   
 </div>
 
