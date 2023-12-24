@@ -36,7 +36,7 @@
 
 <h2 align="center">What I'm Learning and Will be Learning:</h2>
 
-<div align="center">
+<!-- <div align="center">
 <table>
   <tbody>
     <tr valign="top">
@@ -97,7 +97,9 @@
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
-</div>
+</div> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkum444)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
