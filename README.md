@@ -34,9 +34,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h2 align="center">What I'm Learning and Will be Learning:</h2>
+<!--<h2 align="center">What I'm Learning and Will be Learning:</h2>
 
-<!-- <div align="center">
+<div align="center">
 <table>
   <tbody>
     <tr valign="top">
@@ -97,9 +97,12 @@
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
-</div> -->
+</div> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkum444)](https://github.com/anuraghazra/github-readme-stats)
+
+<languages ueded>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkum444)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 
 
 
