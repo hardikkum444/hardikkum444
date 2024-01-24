@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C++, DSA, Java**
 
-- 👨🏻‍💻 Exploring **all capabilities**
+- 👨🏻‍💻 Exploring **all possibilities**
 
 - 🤝 Always **thinking, logically**
 
