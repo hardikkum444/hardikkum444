@@ -117,6 +117,7 @@
 
 ![](https://raw.githubusercontent.com/hardikkum444/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/hardikkum444/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkum444&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </div>
 
