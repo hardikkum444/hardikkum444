@@ -34,24 +34,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <!--<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>--!>
 
-<style>
-  .icon-container {
-    position: relative;
-    display: inline-block;
-    margin: 10px;
-  }
-  .background {
-    position: absolute;
-    top: -5px;
-    left: -5px;
-    width: calc(100% + 10px);
-    height: calc(100% + 10px);
-    background-color: white;
-    border-radius: 5px;
-    z-index: -1;
-  }
-</style>
-
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
