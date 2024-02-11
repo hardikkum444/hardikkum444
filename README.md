@@ -55,7 +55,7 @@
   </a>
   <span style="background-color: white; padding: 5px; border-radius: 5px;">
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="rust-2.jpg" alt="rust" width="40" height="40"/>
+      <img src="rust22.png" alt="rust" width="40" height="40"/>
     </a>
   </span>
   <a href="#" target="_blank" rel="noreferrer">
