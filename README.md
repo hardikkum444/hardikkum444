@@ -68,6 +68,9 @@
     <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="subl.png" alt="subl" width="40" height="40"/>
+  </a>
 </p>
 
 
