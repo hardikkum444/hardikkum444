@@ -12,21 +12,51 @@
 - Fun fact: **fish can cough!**
 
 <h3 align="left">Languages and Tools:</h3>
+<!--<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>--!>
 
 <p align="left">
-  <img src="bash.png" alt="bash" width="40" height="40"/>
-  <img src="cplusplus.png" alt="cplusplus" width="40" height="40"/>
-  <img src="python.png" alt="python" width="40" height="40"/>
-  <img src="c.png" alt="c" width="40" height="40"/>
-  <img src="html5.png" alt="html5" width="40" height="40"/>
-  <img src="css3.png" alt="css3" width="40" height="40"/>
-  <img src="rust.png" alt="rust" width="40" height="40"/>
-  <img src="javascript.png" alt="javascript" width="40" height="40"/>
-  <img src="java.png" alt="java" width="40" height="40"/>
-  <img src="vscode.png" alt="vscode" width="40" height="40"/>
-  <img src="subl.png" alt="subl" width="40" height="40"/>
-  <img src="neovim.png" alt="neovim" width="40" height="40"/>
-  <img src="git.png" alt="git" width="40" height="40"/>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="bash.png" alt="bash" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <span style="background-color: white; padding: 5px; border-radius: 5px;">
+    <a href="#" target="_blank" rel="noreferrer">
+      <img src="rust22.png" alt="rust" width="40" height="40"/>
+    </a>
+  </span>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+    <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  </a>
+    <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="subl.png" alt="subl" width="40" height="40"/>
+  </a>
+    <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>
+  </a>
+    <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
 </p>
 
 <div align="center">
