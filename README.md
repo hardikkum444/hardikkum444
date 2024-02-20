@@ -1,8 +1,8 @@
 <h1 align="center"> ReadMe</h1>
-<img align='right' src='https://user-images.githubusercontent.com/114590291/204161077-e88de482-4cb0-44c2-887d-0425a92c5915.gif' width='200"'>
+<!--<img align='right' src='https://user-images.githubusercontent.com/114590291/204161077-e88de482-4cb0-44c2-887d-0425a92c5915.gif' width='200"'>
 
 
-<div align="center" width="50">
+<!--<div align="center" width="50">
 <img src="https://user-images.githubusercontent.com/114590291/204160702-6d5a34e6-11a1-45b0-883f-4e7ecc3fcc80.gif" width="400">
 </div>
 
@@ -24,12 +24,12 @@
 
 - ⚡ Fun fact **fish can cough!**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/har.di.k.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="har.di.k.k" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hardikkum444" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hardikkum444" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@hardikkumawat444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hardikkumawat444" height="30" width="40" /></a>
-</p>
+</p>-->
 
 <h3 align="left">Languages and Tools:</h3>
 <!--<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>--!>
