@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hardik Kumawat - Portfolio</title>
+</head>
+<body>
+
 <h3 align="center">About Me:</h3>
 
 <p align="center">Hi, my name is Hardik Kumawat and I drink coffee.</p>
@@ -7,7 +16,6 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<!--<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>--!>
 
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
@@ -36,31 +44,31 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-    <a href="#" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  </a>
-    <a href="#" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="subl.png" alt="subl" width="40" height="40"/>
   </a>
-    <a href="#" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/>
   </a>
-    <a href="#" target="_blank" rel="noreferrer">
+  <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h2 align="center"></h2> 
-    <img src="https://github-readme-stats.vercel.app/api?username=hardikkum444&show_icons=true&theme=radical&hide_border=true&locale=en" alt="Github Stats"/>
-  </div>
-  <div>
-    <h2 align="center"></h2> 
-    <img src="https://streak-stats.demolab.com?user=hardikkum444&theme=radical&border_radius=5.3" alt="Github Streak"/>
-  </div>
+<div align="center">
+  <h2>Github Stats</h2> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hardikkum444&show_icons=true&theme=radical&hide_border=true&locale=en" alt="Github Stats"/>
 </div>
+<div align="center">
+  <h2>Github Streak</h2> 
+  <img src="https://streak-stats.demolab.com?user=hardikkum444&theme=radical&border_radius=5.3" alt="Github Streak"/>
+</div>
+
+</body>
+</html>
