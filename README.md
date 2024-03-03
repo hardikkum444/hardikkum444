@@ -61,14 +61,14 @@
   </a>
 </p>
 
-<div align="center">
+<!--<div align="center">
   <h2>Github Stats</h2> 
   <img src="https://github-readme-stats.vercel.app/api?username=hardikkum444&show_icons=true&theme=radical&hide_border=true&locale=en" alt="Github Stats"/>
 </div>
 <div align="center">
   <h2>Github Streak</h2> 
   <img src="https://streak-stats.demolab.com?user=hardikkum444&theme=radical&border_radius=5.3" alt="Github Streak"/>
-</div>
+</div>-->
 
 </body>
 </html>
