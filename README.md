@@ -9,7 +9,7 @@
 
 <h3 align="center">About Me:</h3>
 
-<p align="center">Hi, my name is Hardik Kumawat and I drink coffee.</p>
+<p align="center">Hi, my name is Hardik Kumawat and I can exit vim.</p>
 
 <div align="center">
   <img src="cat.png" alt="Also here is a cat" width="100">
