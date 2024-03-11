@@ -7,15 +7,8 @@
 </head>
 <body>
 
-<h3 align="center">About Me:</h3>
 
-<p align="center">Hi, my name is Hardik Kumawat and I can exit vim.</p>
-
-<div align="center">
-  <img src="cat.png" alt="Also here is a cat" width="100">
-</div>
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages Used:</h3>
 
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
