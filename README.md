@@ -8,7 +8,7 @@
 <body>
 
 
-<h3 align="left">Languages Used:</h3>
+<h3 align="left">Languages and tools Used:</h3>
 
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
