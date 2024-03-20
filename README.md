@@ -1,14 +1,14 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--<title>Hardik Kumawat - Portfolio</title>-->
-</head>
+<!--</head>
 <body>
 
 
-<h3 align="left">Languages and tools Used:</h3>
+<!--<h3 align="left">Languages and tools Used:</h3>
 
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
@@ -63,5 +63,5 @@
   <img src="https://streak-stats.demolab.com?user=hardikkum444&theme=radical&border_radius=5.3" alt="Github Streak"/>
 </div>-->
 
-</body>
+<!--</body>
 </html>
